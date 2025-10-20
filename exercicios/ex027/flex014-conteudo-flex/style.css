@@ -30,7 +30,7 @@ header, section.normal {
 
 section.flex-content {
     padding: 20px;
-    background-color: #deb4b9;
+    background-color: #6b9b5d;
 
     display: flex;
     flex-flow: column nowrap;
